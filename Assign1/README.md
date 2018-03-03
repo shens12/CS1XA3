@@ -17,17 +17,17 @@ Informs you if you're local repo is up to date with the remote repo.
 ### uncommit_change
 
 Puts all uncommited changes in a file changes.log
-This function also provides you with an option to view the created file.
+#### This function also provides you with an option to view the created file.
 
 ### log_todo
 
 Puts each line from every file of your project with the tag #TODO into a file todo.log
-This also provides you an option to view the created file
+#### This also provides you an option to view the created file. 
 
 ### error_search
 
 Checks all haskell files for syntax errors and puts the results into error.log
-This also provides you an option to view the created file
+#### This also provides you an option to view the created file
 
 ### help_menu
 
@@ -45,10 +45,16 @@ To Display The Last Updated File Or The Newest File In A Directory.
 
 To Get The Current Date, Time, Username And Current Working Directory.
 
+### Feature 3 : Option to view created file
+
 ## Acknowledgments and References
 
-### help_menu function
+### help_menu function 
+#### get intuition from
 https://github.com/longz3 
+
+### option to view created file
+#### get intuition from
 
 
 
