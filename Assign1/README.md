@@ -1,10 +1,12 @@
-# Project Title
-
-One Paragraph of project description goes here
+# ASSIGNMENT 1 --- ProjectAnalyze.sh
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This is a bash script to keep at root of your git repo that performs some specific functionalities.
+
+To start with, it will prompt you a menu_help command, by which you can understand how to use the secipt.
+
+By reading through this README, you can also get a quickly understanding of all functions.
 
 ### Prerequisites
 
