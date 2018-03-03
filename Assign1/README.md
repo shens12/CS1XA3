@@ -8,7 +8,7 @@ To start with, it will prompt you a menu_help command, by which you can understa
 
 By reading through this README, you can also get a quickly understanding of all functions.
 
-## Functionalities
+## Required Functionalities
 
 ### repo_status
 
