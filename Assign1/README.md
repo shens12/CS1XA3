@@ -8,51 +8,26 @@ To start with, it will prompt you a menu_help command, by which you can understa
 
 By reading through this README, you can also get a quickly understanding of all functions.
 
-### Prerequisites
+## Functionalities
 
-What things you need to install the software and how to install them
+### repo_status
 
-```
-Give examples
-```
+Informs you if you're local repo is up to date with the remote repo.
 
-### Installing
+### uncommit_change
 
-A step by step series of examples that tell you have to get a development env running
+Puts all uncommited changes in a file changes.log
+This function also provides you with an option to view the created file.
 
-Say what the step will be
+### log_todo
 
-```
-Give the example
-```
+Puts each line from every file of your project with the tag #TODO into a file todo.log
+This also provides you an option to view the created file
 
-And repeat
+### error_search
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+Checks all haskell files for syntax errors and puts the results into error.log
+This also provides you an option to view the created file
 
 ## Deployment
 
