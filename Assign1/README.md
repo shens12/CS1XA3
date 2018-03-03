@@ -4,7 +4,7 @@
 
 This is a bash script to keep at root of your git repo that performs some specific functionalities.
 
-To start with, it will prompt you a menu_help command, by which you can understand how to use the secipt.
+To start with, it will prompt you a "explanation" command, by which you can understand how to use the secipt.
 
 By reading through this README, you can also get a quickly understanding of all functions.
 
@@ -29,9 +29,9 @@ Puts each line from every file of your project with the tag #TODO into a file to
 Checks all haskell files for syntax errors and puts the results into error.log
 #### This also provides you an option to view the created file
 
-### help_menu
+### explanation
 
-Give instructions to the user on how to use this bash script.
+Give instructions and explanations to the user on how to use this bash script.
 
 ## My Features
 
@@ -49,12 +49,16 @@ To Get The Current Date, Time, Username And Current Working Directory.
 
 ## Acknowledgments and References
 
-### help_menu function 
+### Option to view created file
 #### get intuition from
-https://github.com/longz3 
+##### https://github.com/longz3 
+When user runs his bash script, an option to view created files is provided. I think this is pretty good and convenient because in this way you don't need to change directory to get to the new file.
 
-### option to view created file
+### Explanation functionality
 #### get intuition from
+##### ssh "man" command
+When we did Quiz1 (playing that game with ssh commands), we could use "man" command to ask the wise "man" on how to use certain command or get explanations. Inspired by this, I write "explanation" functionality.
+
 
 
 
