@@ -1,4 +1,4 @@
-# CS1XA3 (Winter 2018)
+# COMPSCI 1XA3 (Winter 2018)
 
 ## List of documents
 
